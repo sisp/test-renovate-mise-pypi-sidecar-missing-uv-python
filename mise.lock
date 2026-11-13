@@ -3,10 +3,9 @@
 lockfile_version = 4
 
 [[tools."pypi:zensical"]]
-version = "0.1.0"
+version = "0.1.1"
 backend = "pypi:zensical"
-specifiers = ["0.1.0"]
-uv = { path = ".mise/locks/pypi-zensical/0.1.0", digest = "sha256:7fbcd2f72dbdc47d302fd8ec2c8c4c33428db73c45d0b9ef8cfc3f6e5ae16a73" }
+specifiers = ["0.1.1"]
 
 [[tools.python]]
 version = "3.11.18"
