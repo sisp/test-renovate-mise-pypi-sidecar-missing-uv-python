@@ -1,0 +1,4 @@
+[tools]
+python = "3.11"
+uv = "0.13.8"
+"pypi:zensical" = "0.1.0"
